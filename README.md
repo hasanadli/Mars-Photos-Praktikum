@@ -1,7 +1,7 @@
 MarsPhotos - Starter Code
 ==================================
 
-Solution code for Android Basics in Kotlin.
+Starter code for Android Basics in Kotlin.
 
 Introduction
 ------------
